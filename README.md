@@ -1,5 +1,5 @@
 # こんにちは！〜 💻
 
-![](https://raw.githubusercontent.com/daikiejp/daikiejp/master/images/working.png)
+![](./images/working.png)
 
 Hello, I'm Danny (aka. だいき)
