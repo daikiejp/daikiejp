@@ -22,9 +22,6 @@
 
 ## Stats
 
-<a href="https://github.com/anuraghazra/convoychat" style="margin-bottom:1em">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=daikiejp&layout=compact&theme=vision-friendly-dark" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daikiejp&layout=compact&theme=vision-friendly-dark" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daikiejp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=daikiejp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
