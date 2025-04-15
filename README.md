@@ -1,10 +1,10 @@
 # こんにちは！〜 💻
 
-![](https://2l87c6ctzf.ufs.sh/f/odqkSa7yTWuUmMfmUJvj18cJpum67QiVAyTqtxkd2YO3UMrB)
+![](https://2l87c6ctzf.ufs.sh/f/odqkSa7yTWuU5Y0dgzRWa4nXERzT8YkmSibx3HtwcpOFqvsG)
 
 ## Hey, I'm Danny (aka. だいきえ)
 
-🎯 Full Stack Developer | AI & ML Enthusiast | Open Source Advocate
+🎯 Full Stack Developer | 🤖 AI & ML Enthusiast | 🌱 Tech SDG | 🥑 Open Source Advocate
 
 I'm a developer with a passion for crafting scalable applications and pushing the limits of what tech can do — from AI models to dynamic business platforms.
 
@@ -43,6 +43,6 @@ I'm a developer with a passion for crafting scalable applications and pushing th
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daikiejp&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=daikiejp&layout=compact&theme=gruvbox)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=daikiejp&langs_count=20&layout=compact&theme=gruvbox)
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=daikiejp&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=gruvbox)]()
