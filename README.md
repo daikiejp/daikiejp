@@ -1,6 +1,6 @@
 # こんにちは！〜 💻
 
-![](https://2l87c6ctzf.ufs.sh/f/odqkSa7yTWuU5Y0dgzRWa4nXERzT8YkmSibx3HtwcpOFqvsG)
+![](https://2l87c6ctzf.ufs.sh/f/odqkSa7yTWuU1zA0VOirf3d5sDoiR9EtkXjLGxB4eMpm1PNv)
 
 ## Hey, I'm Danny (aka. だいきえ)
 
